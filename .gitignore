@@ -13,6 +13,6 @@ target
 CVS
 a.out
 core
-
+*.exe
 .metadata/**
 .DS_Store
