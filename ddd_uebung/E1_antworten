@@ -1,0 +1,31 @@
+E1.1
+DDD installiert und getestet. Einführung gelesen
+
+E1.2
+a) 
+0x4004bf
+0x4004c9
+10 Byte
+b)
+Inhalte sind ok. der Inhalt von a ist ein wenig kompliziert (2-er komplement)
+
+E1.3
+a) Ja, Little Endian
+b) d[0]
+
+E1.4
+u: 0x804a090
+w: 0x804a098
+x: 0x804a09c
+align 4
+
+E1.5
+a) 
+a: 4
+x: 12
+s: 4
+*s: 1
+"Hallo Welt!": 12
+
+b) In *s steht nur der 1. char des strings
+c) Es kommt noch das Terminierungszeichen \0 hinzu
